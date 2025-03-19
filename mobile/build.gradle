@@ -7,6 +7,7 @@ android {
 
     defaultConfig {
         applicationId "it.silleellie.dndsync"
+        namespace = "it.silleellie.dndsync.mobile"
         minSdk 30
         targetSdk 34
         versionCode 3

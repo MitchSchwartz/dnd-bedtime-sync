@@ -8,6 +8,7 @@ android {
 
     defaultConfig {
         applicationId "it.silleellie.dndsync"
+        namespace = "it.silleellie.dndsync.wear"
         minSdk 30
         targetSdk 31
         versionCode 3

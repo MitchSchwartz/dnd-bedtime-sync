@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="it.silleellie.dndsync">
+    package="it.silleellie.dndsync.mobile">
 
     <application
         android:allowBackup="true"
