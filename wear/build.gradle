@@ -10,9 +10,9 @@ android {
         applicationId "it.silleellie.dndsync"
         namespace = "it.silleellie.dndsync.wear"
         minSdk 30
-        targetSdk 31
+        targetSdk 34
         versionCode 3
-        versionName "2.1"
+        versionName "2.2"
 
     }
 
